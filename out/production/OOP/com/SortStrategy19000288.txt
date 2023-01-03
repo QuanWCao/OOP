@@ -1,0 +1,9 @@
+All value of array :
+Value of array :3
+Value of array :4
+Value of array :8
+Value of array :8
+Value of array :3
+Bubblesort: Before sorting: [3, 4, 8, 8, 3] After sorting: [3, 3, 4, 8, 8]Number of swap: 3
+SelectionSort :Before sorting: [3, 4, 8, 8, 3] After sorting: [3, 3, 4, 8, 8]Number of swap: 4
+SelectionSort :Before sorting: [3, 4, 8, 8, 3] After sorting: [3, 4, 4, 8, 8]Number of swap: 4
